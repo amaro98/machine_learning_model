@@ -2,11 +2,6 @@
  <h1> XGBOOST MODEL APPLICATION FOR DETERMINING PID CONTROLLER TUNING STATUS </h1>
 
 <h2>OVERVIEW</h2>
-
-Aim of the project
-* Set a framework on the definition of aggressive, sluggish, and optimised tuning as tuning status.
-* Apply machine learning (XGBoost) in determining PID controller tuning status
-
 The flow of the methodology are illustrated below:<br>
 
 ![image](https://user-images.githubusercontent.com/88897287/133895401-636c1ba4-0b54-4766-960a-383595ff2af1.png)
