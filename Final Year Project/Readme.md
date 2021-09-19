@@ -80,6 +80,9 @@ print("%f (%f) with: %r" % (mean, stdev, param))
 ```
 The best hyperparameter value will be shown based on the lowest log loss. The process is repeated to obtain a more precise value and to find the other best hyperparameter value.
 
+![image](https://user-images.githubusercontent.com/88897287/133917137-e03caa24-aa48-4a47-98db-ca1f6759b393.png)
+<br>
+
 The finalised XGBoost Model:
 
 ```
