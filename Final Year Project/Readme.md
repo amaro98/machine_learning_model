@@ -1,6 +1,6 @@
 
  <h1> MACHINE LEARNING BASED TOOL FOR PID CONTROLLER TUNING STATUS </h1>
-Disclaimer: This Readme is mainly about developing XGBoost model in ptyhon, the other models were developed using MATLAB Classification Learner<br>
+Disclaimer: This Readme is mainly about developing XGBoost model in Python, the other models were developed using MATLAB Classification Learner<br>
 <h2>OVERVIEW</h2><br><br>
 <b>Aim: To apply Machine Learning Model to predict the PID Controller Tuning Status</b><br>
 
