@@ -100,3 +100,13 @@ Train Set Accuracy : 99.2%
 ![image](https://user-images.githubusercontent.com/88897287/133895648-4cc9ddd9-7261-417b-a5d9-071203f35af5.png)
 
 Test Set Accuracy : 98.40%
+
+<h2>COMPARISON BETWEEN OTHER MACHINE LEARNING MODELS</h2>
+
+![image](https://user-images.githubusercontent.com/88897287/133916491-75ab8467-e2c8-4ba3-8e5a-2f9c58491e65.png) <br><br>
+Con't<br>
+![image](https://user-images.githubusercontent.com/88897287/133916487-5afc2e51-ca6c-4bd8-b1c6-bef599d45ef9.png)
+
+
+
+
