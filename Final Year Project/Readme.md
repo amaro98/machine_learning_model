@@ -97,12 +97,8 @@ classifier = XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1
 
 <h3>Result</h3>
 
-![image](https://user-images.githubusercontent.com/88897287/133969095-1edaeccf-00fd-40e4-8620-9834b6a53c41.png)
 
-Train Set Accuracy : 99.2%
-
-![image](https://user-images.githubusercontent.com/88897287/133895648-4cc9ddd9-7261-417b-a5d9-071203f35af5.png)
-
+![image](https://user-images.githubusercontent.com/88897287/133969441-e81eb366-1061-4131-a5a2-2d3a27d95fb5.png)<br>
 Test Set Accuracy : 98.40%
 
 <h2>COMPARISON BETWEEN OTHER MACHINE LEARNING MODELS</h2>
