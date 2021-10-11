@@ -1,10 +1,16 @@
 
  <h1> MACHINE LEARNING BASED TOOL FOR PID CONTROLLER TUNING STATUS </h1>
 Disclaimer: This Readme is mainly about developing XGBoost model in Python, the other models were developed using MATLAB Classification Learner<br>
-<h2>OVERVIEW</h2><br><br>
-<b>Aim: To apply Machine Learning Model to predict the PID Controller Tuning Status</b><br>
+<h2>Overview</h2>
+<b>Aim: To apply Machine Learning Model to predict the PID Controller Tuning Status</b><br><br>
+<b>Problem Statement</b>
 
-The flow of the methodology are illustrated below:<br><br>
+- 60% controllers have non-acceptable performance, lead to poor product quality & production losses
+- Current method in determining PID tuning status are Autocorrection Factor and Idle Index
+- However, little studies were made regarding machine learning implementation in determining PID status<br><br>
+
+
+<h2><b>Methodology</b></h2>
 
 ![image](https://user-images.githubusercontent.com/88897287/133895401-636c1ba4-0b54-4766-960a-383595ff2af1.png)
 
@@ -95,13 +101,13 @@ classifier = XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1
 ```
 
 
-<h3>Result</h3>
+<h2>Result</h2>
 
 
 ![image](https://user-images.githubusercontent.com/88897287/133969441-e81eb366-1061-4131-a5a2-2d3a27d95fb5.png)<br>
 Test Set Accuracy : 98.40%
 
-<h2>COMPARISON BETWEEN OTHER MACHINE LEARNING MODELS</h2>
+<h2>Comparison with other machine learning models</h2>
 
 ![image](https://user-images.githubusercontent.com/88897287/133916491-75ab8467-e2c8-4ba3-8e5a-2f9c58491e65.png) <br><br>
 Con't<br>
