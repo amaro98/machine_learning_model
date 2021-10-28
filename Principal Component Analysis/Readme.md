@@ -12,6 +12,9 @@
   <img src="https://user-images.githubusercontent.com/88897287/138472322-4f798d4c-9ff7-427d-999c-a76d836ebc50.png">
 </p>
 
+<p> The oversimpified illustration on how is this will be going is as shown below</p>
+
+![image](https://user-images.githubusercontent.com/88897287/139188519-064d4dea-c7ab-41a3-85f5-2a2afbba8a2f.png)
 
 <h2>Execution</h2>
 
