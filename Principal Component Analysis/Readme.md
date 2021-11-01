@@ -23,27 +23,6 @@
 </p>
 
 
-<h2>Outcome</h2>
-
-
-<p>
-  The image below is an illustration of third component in PCA illustrated in SIMCA, which shows significant patterns during process change/transitions. I display third component (t[3]) becuase t[1] and t[2] plot were not really that insightful
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/88897287/138473642-2c9cf64b-5c64-48c8-bcfa-ad7ee5860ceb.png">
-</p>
-
-<p>
-  This t[3] also tells us at what time 'process drift' occurs, which after clarification with related personned, the process drift occurs during plant turnaround. Thus in the future, these data will be omitted
-</p>
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/88897287/138474662-78fe2b69-926b-41c5-989d-d30ca1bafe71.png">
-</p>
-
-
 <h2>References</h2>
 
 <p>
