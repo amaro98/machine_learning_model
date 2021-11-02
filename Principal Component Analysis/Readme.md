@@ -4,9 +4,6 @@
 <p>
   Principal Component Analysis is a part of singular value decomposition (SVD). The SVD plays an important role in data compression and finding hidden features. PCA works by taking input and return into a new reconstructed dataset. PCA in this context are used to identify hidden patterns from high dimension data (or to out simple, data with numerous features). Other uses of PCA is for dimensionality reduction
 </p>
-<p>
-  My application for PCA is to identify patterns from a dataset with 60++ features. I want to find at what time where a process change/transition occurs
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88897287/138472322-4f798d4c-9ff7-427d-999c-a76d836ebc50.png">
