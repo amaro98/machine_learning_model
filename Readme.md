@@ -5,9 +5,9 @@ Machine Learning Model in this Repo:</br>
 
 - [X] Logistic Regression
 - [X] XGBoost
-- [ ] Decision Tree
-- [ ] SVM
-- [ ] KNN Nearest Neighbour
+- [X] Decision Tree
+- [X] SVM
+- [X] KNN Nearest Neighbour
 - [ ] Naive Bayes
 - [ ] Neural Network
 - [X] PCA
