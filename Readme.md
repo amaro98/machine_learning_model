@@ -9,5 +9,5 @@ Machine Learning Model in this Repo:</br>
 - [X] SVM
 - [X] KNN Nearest Neighbour
 - [ ] Naive Bayes
-- [ ] Neural Network
+- [X] Neural Network
 - [X] PCA
